@@ -1,5 +1,4 @@
 #-*-coding:utf-8-*-
-
 #抓取糗事百科热门段子
 #1.确定URL并抓取页面代码
 import urllib
