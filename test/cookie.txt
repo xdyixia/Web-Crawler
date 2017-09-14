@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+ids.xidian.edu.cn	FALSE	/	FALSE		BIGipServeridsnew.xidian.edu.cn	2541319626.20480.0000
+ids.xidian.edu.cn	FALSE	/	FALSE		JSESSIONID	FQF5IorBCJcXzbQg5_1BphaAnlxBcEhD19RUpPs03ihmX3A5yB2E!-1025023689
+ids.xidian.edu.cn	FALSE	/authserver	FALSE		route	caa545063aab30f4444ff374a2d87d81
